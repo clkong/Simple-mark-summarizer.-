@@ -205,7 +205,7 @@
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/The-end-500x312.png"/>
+              <Image iconType="3" name="/Law-School-grades-and-your-career.jpg"/>
             </Property>
           </Properties>
         </Component>

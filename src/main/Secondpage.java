@@ -135,7 +135,7 @@ public class Secondpage extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(51, 153, 255));
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/The-end-500x312.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Law-School-grades-and-your-career.jpg"))); // NOI18N
 
         jLabel1.setBackground(new java.awt.Color(0, 153, 153));
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 28)); // NOI18N
