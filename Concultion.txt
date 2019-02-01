@@ -190,3 +190,14 @@ Comments:
 
 
 
+Student's name: Ramze
+Student's mark  90.0
+Highest mark in class is: 101.0
+Lowest mark in clss is: -10.0
+Number of students above 90 in class: 3.0
+Number of student fails: 32.0
+Average mark is: 32.0
+Comments:
+asdadaasafawea
+
+
